@@ -1,7 +1,6 @@
 # senchatouch2-styleguide
-==============================
 
-Based on experience Sencha Touch development process.
+Based on experience Sencha Touch development process. Starting from project setup, development and testing.
 
 ## Table of Contents
 
