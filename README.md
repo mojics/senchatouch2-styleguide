@@ -10,3 +10,11 @@ Based on experience Sencha Touch development process. Starting from project setu
 4. [Core](#4-core)
 5. [Components](#5-components)
 6. [Overall](#overall)
+
+
+
+## 1. Context
+
+This was created to offer a *more* in-depth guide for Sencha Touch developers that want their apps to scale, maintainable, and whatever
+
+[Back to top](#table-of-contents)
