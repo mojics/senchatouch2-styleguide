@@ -6,7 +6,7 @@ Based on experience Sencha Touch development process. Starting from project setu
 
 1. [Context](#1-context)
 2. [Overview](#2-overview)
-3. [Requirements](#3-app)
+3. [Requirements](#3-requirements)
 4. [Core](#4-core)
 5. [Components](#5-components)
 6. [Overall](#overall)
@@ -26,6 +26,11 @@ We will start from the very first step, the installation. I will list down some 
 
 
 ## 3. Requirements
+
+- Java RE
+- Ruby Gem / Sass / Compass
+- Sencha CMD
+- Sencha Touch 2 commercial copy (*FREE!!!*)
 
 
 
