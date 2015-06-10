@@ -18,3 +18,10 @@ Based on experience Sencha Touch development process. Starting from project setu
 This was created to offer a *more* in-depth guide for Sencha Touch developers that want their apps to scale, maintainable, and whatever
 
 [Back to top](#table-of-contents)
+
+
+## 2. Overview
+
+We will start from the very first step, the installation. I will list down some notes on how to easily start your Sencha Touch developemtn. After the installation is the the project setup. If you are familiar with Yeoman then it is quite the same.
+
+[Back to top](#table-of-contents)
