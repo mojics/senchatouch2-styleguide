@@ -33,5 +33,11 @@ We will start from the very first step, the installation. I will list down some 
 - Sencha Touch 2 commercial copy (*FREE!!!*)
 
 
+## 4. Core
+
+We need couple of core items in order to jumpstart our Sencha Touch application, one of them is the Sencha Touch 2 commercial edition which is free. I also added the URL below , and you can also check Sencha CMD.
+
+- http://www.sencha.com/products/touch/
+
 
 [Back to top](#table-of-contents)
